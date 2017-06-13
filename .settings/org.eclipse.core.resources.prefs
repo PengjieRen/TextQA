@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//root/data/Wiki-dev.txt=UTF-8
+encoding//root/data/Wiki-test.gt.txt=UTF-8
+encoding//root/data/Wiki-test.txt=UTF-8
+encoding//root/data/Wiki-train.gt.txt=UTF-8
+encoding//root/data/Wiki-train.txt=UTF-8
+encoding//root/model/glove.6B.50d.txt=UTF-8
+encoding//root/model/stop.dict=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
